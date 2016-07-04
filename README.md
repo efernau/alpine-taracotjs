@@ -1,5 +1,15 @@
-# alpine-taracotjs
+# alpine-TaracotJS
 Docker taracotjs running on Alpine with mongodb, redis and node.
+
+#TaracotJS
+
+TaracotJS is fast and minimalist CMS based on Node.js. 
+
+#Official website and demo
+
+Official website: https://taracot.org
+Github: https://github.com/xtremespb/taracotjs
+
 
 # Running
 
